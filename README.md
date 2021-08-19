@@ -80,7 +80,7 @@ This project can be run on netbeans or eclipse.
 
 1) mysql-connector-java-8.0.26.jar
 2) rs2xml.jar
-3) icePDF jars If you want to upload pdf // i had corrupt pdf issue so i went other way as shortage of time.
+3) icePDF jars If you want to upload pdf // i had corrupt pdf issue so i went other way as i had shortage of time.
 <!-- This is an example of how to list things you need to use the software and how to install them.
 * npm
   ```sh
